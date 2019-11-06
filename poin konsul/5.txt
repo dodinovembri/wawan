@@ -1,0 +1,11 @@
+jurnal retain
+ - 14591-29663-1-SM
+	judul : ANALISIS STRATEGI CUSTOMER ENGAGEMENT TERHADAP LOYALITAS PADA PT. NASMOCO MAGELANG
+	penulis : Malisa Wahyu Wiranti
+	tahun : 
+
+jurnal tracking
+ - 351-570-1-PB
+	judul :IMPLEMENTASI REST WEB SERVICE UNTUK SALES ORDER DAN SALES TRACKING BERBASIS MOBILE
+	penulis : Erick Kurniawan
+	tahun : 2014
